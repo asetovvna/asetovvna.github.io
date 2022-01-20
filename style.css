@@ -1,5 +1,6 @@
-.box{background-color: rgb(94, 71, 107);
-     border:dotted 3px burlywood;
-     height:200px;
-     width:200px;
-      color: aliceblue;}
+.box{background-color: rgb(108, 70, 145);
+    border:dotted 3px rgb(65, 41, 87);
+    color:white;
+    width: 200px;
+    height: 200ppx;
+}
