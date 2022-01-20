@@ -1,6 +1,13 @@
+
+.container{margin:0 auto;
+           width:1080px;}
+
+           
 .box{background-color: rgb(108, 70, 145);
     border:dotted 3px rgb(65, 41, 87);
     color:white;
     width: 200px;
     height: 200ppx;
+    text-align: center;
+    padding-top:10px;
 }
