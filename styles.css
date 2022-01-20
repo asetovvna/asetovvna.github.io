@@ -1,0 +1,297 @@
+body{background-color:#002650;
+     font-family:"Open Sans",Helvetica,Arial,sans-serif;}
+ 
+ 
+   .body-1, .body-2, .body-3
+   {height:150px;
+    
+    border:1px black solid;}
+
+   *{margin:0px; padding:0px;}
+   
+  
+  .content{width:1200px;
+           margin:0px auto;
+		   height:inherit;
+		}
+	.shapka{margin-top:0px; background-color:#0b0d12; height:60px;}	   
+     img.logotip{width:68px; display:inline-block;}
+   		
+		.shapka a{text-decoration:none; color:#fffc; margin-right:30px;}
+	    .shapka a:hover{color:white;}
+		 
+		.logotip{width:80%; position:relative; top:11px;}
+		.osnov-menu{width:64%; bottom:15px; position;relative;}
+		.menu-right{bottom:15px; position;relative;}
+		.osnov-menu a{text-transform:uppercase; }
+	     a.strelka:after{content:'\02EF'; bottom:8px; font-size:40px; position:relative; }
+        
+  
+    .osnov-menu div, .menu-right div{display:inline-block;}
+    .logotip, .osnov-menu, .menu-right {display:inline-block;}
+	
+	
+	
+	
+	
+				.logotipty{float:left;
+							width:78px;
+			     }
+    
+	
+	 .body-1{background-image:url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt7bcb2291026d0dde/6025e2a8415d5f4e80324945/D2R_2021_Blizzard.comDesktop_2500x514_MB01.png);
+	         background-position-x:center;
+			 height:500px;}
+	
+			 
+		 
+			 
+	.body-2{background-image:url(https://d9me64que7cqs.cloudfront.net/images/common/background-generic-landscape-short.31b43a7823e13c6383e5e613b04b5b58.jpg);
+	        height:1100px;
+	        background-repeat:no-repeat;
+			padding:30px 0px;
+	 }
+			
+	.body-3{background-image:url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/bltc2ad99dbedeb258e/5fb7ee280100b746db953f4e/DesktopBG_Image.webp?auto=webp&format=pjpg); 
+	height:330px;
+	padding:20px 0px;}
+	
+	.body-1, .body-2, .body-3{background-position-x:center;}
+	
+     a h1{color:white;
+		 text-transform:uppercase;
+		 font-size:68px;
+	     }
+		 
+	.body-1 a{text-decoration:none;
+	          color:white;}
+			  
+	.butter	 {background-color:#006fb2;
+              border:solid 1px #00aeff;
+              font-family:"Open Sans",Helvetica,Arial,sans-serif;
+              font-size:18px;
+              font-weight:400;
+              padding:10px 50px;
+              text-align:center;
+			  width:99px;
+			  margin-top:24px;
+			  
+			  }
+	 .but{color:#fff;
+		text-decoration:none;
+		display:inline-block;
+		position:relative;
+		background-color:#006fb2;
+		border:solid 1px #00aeff;
+		font-family:"Open Sans",Helvetica,Arial,sans-serif;
+		font-size:18px;
+		font-weight:400;
+		padding:10px 50px;
+		text-align:center;
+		cursor:pointer;}
+		
+	 a.donw .but:hover{color:#fff;
+				 background-color:#007bc6;
+				 border:solid 1px #79d4ff;}
+				 
+				 
+				 
+				 .donw-2 .butter{color:#00aeff; background:none; width:135px;}
+				 
+				 a.donw-2{text-decoration:none;}
+				 
+				.donw-2 .butter:hover{color:#fff;
+				 background-color:#007bc6;
+				 border:solid 1px #79d4ff;}
+				 
+				 .but .windows:hover{color:#fff;
+				 background-color:#007bc6;
+				 border:solid 1px #79d4ff;}
+				 
+				  .down_left .butter{display:inline-block;}
+			  
+				.k-1{margin-bottom:24px;}
+			  
+				.sl{padding:56px;
+	   }	  
+			  
+			  
+		.zagolovokgame{font-size:44px;
+		               color:white;
+					   float:left;
+					   width:34%;
+					   
+					   }
+		  
+		  
+		.games a{color:#00aeff;text-decoration:none;}
+		
+		.games{width:100%;	
+		      text-align:right;
+			  padding-top:13px;
+			  }
+		
+		
+		.games a:hover, .games a:focus{color:white; text-shadow:9px -2px 10px white; }
+			  
+		.clear{clear:both;
+		    }  
+			  
+		.milash a img:hover{box-shadow:-1px 0px 14px 4px #3d8eebc7;
+		width:230px; 
+		height:330px;
+		margin:0px;}	  
+		
+		.milash img{width:220px; margin:8px 8px; height:320px;}	  
+	    .milash{text-align:center;}  
+			  
+		.down_left h2{color:white; font-size:44px;}  
+			  
+		.down_left{color:#fffc; font-size:150%;} 
+        .down_right img{width:500px;}	  
+		
+		.down_left p{margin:8px 0px;}
+		.down_left p
+		.down_left p i{margin-right:12px;}
+		.windows:after{content:'\f17a'; 
+					   font-family:"Font Awesome 5 Free";
+					   font-weight:900;}
+					   
+					   
+					   
+		p.user:before{content:'\f0c0'; 
+					  font-family:"Font Awesome 5 Free";
+					  font-weight:900;
+					  margin-right:6px;}
+					  
+	    
+		.down_left p:last-child{font-size:16px;}
+		.down_left a:last-child{color:#00aeff;}
+		.down_left a:last-child:hover{color:#ffffff;}
+
+		.body-3 .down_left, .body-3 .down_right{display:inline-block; position:relative; z-index:2;}
+		
+		
+		
+		
+
+		.body-4{background-image:url(https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt619face5f4b56262/5f2dd6b68ea4aa55f2329d4f/careers-2.webp?auto=webp&format=pjpg);
+	            height:432px;
+				background-repeat:no-repeat;
+				background-size:cover;}
+				
+				
+		.pusk{padding-top:190px;}
+		.vake{padding-top:22px;}
+		
+		
+	     .body-5{ height:417px; color:#cfcbcb; position:relative;
+			   display:block;
+			   text-align:center;}				
+
+		.footer{padding-top:15px;
+			   }
+			   
+			a.lang {color:white; 
+			 text-decoration:none;
+			 color:#cfcbcb;}
+			 
+			a.lang:before{content:'\f57d';
+				   font-family:"Font Awesome 5 Free";
+				   font-weight:900;}
+			a.lang:hover{color:#f9f9f9;}
+	 
+			.verbet{margin:30px 0px; height:66px;}
+				 
+	 
+      
+		.fog-1 div{display:inline-block;
+				 font-size:17px;
+				 text-transform:uppercase;}
+				 
+		.fog-1 a:hover{color:white;}		 
+		.fog-1 div:after{content: "";
+						display:inline-block;
+						height:7px;
+						width:1px;
+						background-color:white;
+						margin:2px 10px;
+}	 
+				 
+	  .fog-1{padding-bottom:35px; padding-top:0px; color:#ffc;}
+	  .fog-1 div:last-child:after{content:none;}	   
+			      
+				  a{text-decoration: none;
+					display:inline-block;} 
+				  a:hover{color:#f9f9f9;}
+				 
+				
+				  .fog-2 div{display:inline-block;
+				 font-size:3px;
+				 text-transform:uppercase;}
+				 
+		.fog-2 a:hover{color:white;}		 
+		.fog-2 div:after{content: "";
+						display:inline-block;
+						height:7px;
+						width:1px;
+						background-color:white;
+						margin:2px 10px;}
+	.fog-2 div:last-child:after{content:none;}	
+	.fog-2 div{font-size:11px; margin-top:5px;}
+
+
+
+		.small{height:14px; width:14px;}
+	
+	    a{text-decoration:none;
+		display:inline-block;color:#fffc; 
+		
+		}
+		
+		a:hover{color:#f9f9f9;}
+
+
+
+
+
+			.lopp{padding-top:35px;}
+			.lopp p{font-size:15px;}
+			
+		
+			.true{padding-bottom:35px;font-size:20px;}
+			.lopp{font-size:18px;}
+
+   
+
+   .pics svg{width:314px;
+			 position:relative;
+			 bottom:298px;
+			 left:41%;
+			 z-index:1;
+			 opacity:.3;
+			
+     }
+	 
+
+
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
